@@ -7,6 +7,9 @@ I received the B.Eng. and M.Eng. from <a href="http://www.hit.edu.cn">Harbin Ins
 
 If you have any problems with my research works, please contact me by email: _fxue (at) hotmail (dot) com_.
 
+### Languages
+Chinese, Russian, English
+
 ### Research areas
 
 Image deconvolution, sparse signal reconstruction, unbiased risk estimation, numerical optimization.
@@ -24,9 +27,6 @@ Image deconvolution, sparse signal reconstruction, unbiased risk estimation, num
 ### Funding
 - Unbiased risk estimate algorithms for blind image deconvolution: NSFC #61401013, CNY 290’000, Jan. 2015 — Dec. 2017.
 
-### Languages
-Chinese, Russian, English
-
 ### Academic activities
 - Reviewer to Journals: _SIAM J. Imaging Sciences_, _IEEE Signal Processing Magazine_, _IEEE TIP_, _EURASIP Journal on image and video processing_, _Signal, image and video processing_, _International Journal of Computer Assisted Radiology and Surgery_, _Applied Optics_.
 
@@ -37,7 +37,7 @@ _Unbiased risk estimate algorithms for image deconvolution_. The Chinese Univers
 
 - **Feng Xue**, Jiaqi Liu and Xia Ai. Parametric PSF Estimation based on predicted-SURE with l1-penalized sparse deconvolution. _Signal, Image and Video Processing_, vol. 13, no. 4, 2019, pp. 635–642.  <a href="/sivp_psf_l1_2019.pdf">[pdf]</a>
 - **Feng Xue**, Jiaqi Liu and Xia Ai. Recursive SURE for image recovery via total variation minimization. _Signal, Image and Video Processing_, vol. 13, no. 4, 2019, pp. 795–803. <a href="/sivp_tv_min_2019.pdf">[pdf]</a>
-- Jizhou Li, Feng Xue, Fuyang Qu, Yiping Ho and Thierry Blu. On-the-fly estimation of a microscopy point spread function. _Optics Express_, vol. 26, no. 20, 2018, pp. 26120–26133. <a href="/optics_express_2018.pdf">[pdf]</a>
+- Jizhou Li, **Feng Xue**, Fuyang Qu, Yiping Ho and Thierry Blu. On-the-fly estimation of a microscopy point spread function. _Optics Express_, vol. 26, no. 20, 2018, pp. 26120–26133. <a href="/optics_express_2018.pdf">[pdf]</a>
 - Jizhou Li, **Feng Xue**, Thierry Blu. Fast and accurate 3D PSF computation for fluorescence microscopy. _Journal of the Optical Society of America A_, vol. 34, no. 6, 2017, pp. 1029–1034. <a href="/josaa_2017_published.pdf">[pdf]</a>
 - **Feng Xue**, Anatoly G. Yagola, Jiaqi Liu and Gang Meng. Recursive SURE for iterative reweighted least square algorithms. _Inverse Problems in Science and Engineering_, vol. 24, no. 4, 2016, pp. 625–646. <a href="/ipse_irls_2016.pdf">[pdf]</a>
 - **Feng Xue**, Jiaqi Liu, Shenghai Jiao, Shengdong Liu, Min Zhao and Zhenhong Niu. SURE- type functionals as criteria for parametric PSF estimation. _Journal of Mathematical Imaging and Vision_, vol. 54, no. 1, 2016, pp. 78–105. <a href="/jmiv_published_2016.pdf">[pdf]</a>
