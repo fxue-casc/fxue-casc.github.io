@@ -1,6 +1,4 @@
-
-
-## Welcome to Feng Xue's Hoempage.
+## Welcome to Feng Xue's Homepage.
 
 Dr. **Feng Xue** is a senior engineer of National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China.
 
