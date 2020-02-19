@@ -35,17 +35,16 @@ _Unbiased risk estimate algorithms for image deconvolution_. The Chinese Univers
 
 ### Journal articles
 
-- Feng Xue, Jiaqi Liu and Xia Ai. Parametric PSF Estimation based on predicted-SURE with l1-penalized sparse deconvolution. Signal, Image and Video Processing, vol. 13, no. 4, 2019, pp. 635–642.  <a href="/sivp_psf_l1_2019.pdf">[pdf]</a>
-- Feng Xue, Jiaqi Liu and Xia Ai. Recursive SURE for image recovery via total variation minimization. Signal, Image and Video Processing, vol. 13, no. 4, 2019, pp. 795–803. <a href="/sivp_tv_min_2019.pdf">[pdf]</a>
-- Jizhou Li, Feng Xue, Fuyang Qu, Yiping Ho and Thierry Blu. On-the-fly estimation of a microscopy point spread function.. Optics Express, vol. 26, no. 20, 2018, pp. 26120–26133. <a href="/optics_express_2018.pdf">[pdf]</a>
-- Jizhou Li, Feng Xue, Thierry Blu. Fast and accurate 3D PSF computation for fluorescence microscopy. Journal of the Optical Society of America A, vol. 34, no. 6, 2017, pp. 1029–1034. <a href="/josaa_2017_published.pdf">[pdf]</a>
-- Feng Xue, Anatoly G. Yagola, Jiaqi Liu and Gang Meng. Recursive SURE for iterative reweighted least square algorithms. Inverse Problems in Science and Engineering, vol. 24, no. 4, 2016, pp. 625–646. <a href="/ipse_irls_2016.pdf">[pdf]</a>
-- Feng Xue, Jiaqi Liu, Shenghai Jiao, Shengdong Liu, Min Zhao and Zhenhong Niu. SURE- type functionals as criteria for parametric PSF estimation. Journal of Mathematical Imaging and Vision, vol. 54, no. 1, 2016, pp. 78–105. <a href="/jmiv_published_2016.pdf">[pdf]</a>
-- Feng Xue, Jiaqi Liu, Zhifeng Li, Shengdong Liu, Gang Meng and Li Zhang. Mallows’ statistics CL: a novel criterion for parametric PSF estimation. Journal of Visual Communica- tion and Image Representation, vol. 33, pp. 115–122, Nov. 2015.
-- Feng Xue and Thierry Blu. A novel SURE-based criterion for parametric PSF estimation. IEEE Transactions on Image Processing, vol. 24, no. 2, 2015, pp. 595–607. <a href="/tip_2015.pdf">[pdf]</a>
-- Feng Xue, Florian Luisier and Thierry Blu. Multi-Wiener SURE-LET deconvolution. IEEE Transactions on Image Processing, vol. 22, no. 5, 2013, pp. 1954–1968. <a href="/tip_2013.pdf">[pdf]</a>
-- Feng Xue and Anatoly Yagola. Analysis of point-target detection performance based on ATF and TSF. Infrared Physics & Technology, vol. 52, no. 5, pp. 166–173, Sep. 2009. <a href="/infrared_2009.pdf">[pdf]</a>
-- Feng Xue, Lelin Cao and Wei Zhang. Research on effect of PSF upon point-target detec- tion performance. Supplement of Infrared and Laser Engineering, vol. 36, pp. 177–181, Sep. 2007. (in Chinese)
+- **Feng Xue**, Jiaqi Liu and Xia Ai. Parametric PSF Estimation based on predicted-SURE with l1-penalized sparse deconvolution. _Signal, Image and Video Processing_, vol. 13, no. 4, 2019, pp. 635–642.  <a href="/sivp_psf_l1_2019.pdf">[pdf]</a>
+- **Feng Xue**, Jiaqi Liu and Xia Ai. Recursive SURE for image recovery via total variation minimization. _Signal, Image and Video Processing_, vol. 13, no. 4, 2019, pp. 795–803. <a href="/sivp_tv_min_2019.pdf">[pdf]</a>
+- Jizhou Li, Feng Xue, Fuyang Qu, Yiping Ho and Thierry Blu. On-the-fly estimation of a microscopy point spread function. _Optics Express_, vol. 26, no. 20, 2018, pp. 26120–26133. <a href="/optics_express_2018.pdf">[pdf]</a>
+- Jizhou Li, **Feng Xue**, Thierry Blu. Fast and accurate 3D PSF computation for fluorescence microscopy. _Journal of the Optical Society of America A_, vol. 34, no. 6, 2017, pp. 1029–1034. <a href="/josaa_2017_published.pdf">[pdf]</a>
+- **Feng Xue**, Anatoly G. Yagola, Jiaqi Liu and Gang Meng. Recursive SURE for iterative reweighted least square algorithms. _Inverse Problems in Science and Engineering_, vol. 24, no. 4, 2016, pp. 625–646. <a href="/ipse_irls_2016.pdf">[pdf]</a>
+- **Feng Xue**, Jiaqi Liu, Shenghai Jiao, Shengdong Liu, Min Zhao and Zhenhong Niu. SURE- type functionals as criteria for parametric PSF estimation. _Journal of Mathematical Imaging and Vision_, vol. 54, no. 1, 2016, pp. 78–105. <a href="/jmiv_published_2016.pdf">[pdf]</a>
+- **Feng Xue**, Jiaqi Liu, Zhifeng Li, Shengdong Liu, Gang Meng and Li Zhang. Mallows’ statistics CL: a novel criterion for parametric PSF estimation. _Journal of Visual Communication and Image Representation_, vol. 33, pp. 115–122, Nov. 2015.
+- **Feng Xue** and Thierry Blu. A novel SURE-based criterion for parametric PSF estimation. _IEEE Transactions on Image Processing_, vol. 24, no. 2, 2015, pp. 595–607. <a href="/tip_2015.pdf">[pdf]</a>
+- **Feng Xue**, Florian Luisier and Thierry Blu. Multi-Wiener SURE-LET deconvolution. _IEEE Transactions on Image Processing_, vol. 22, no. 5, 2013, pp. 1954–1968. <a href="/tip_2013.pdf">[pdf]</a>
+- **Feng Xue** and Anatoly Yagola. Analysis of point-target detection performance based on ATF and TSF. _Infrared Physics & Technology_, vol. 52, no. 5, pp. 166–173, Sep. 2009. <a href="/infrared_2009.pdf">[pdf]</a>
 
 ### Conference papers
 - Feng Xue and Thierry Blu. On the degrees of freedom in total variation minimization. In Proc. of the 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 4–8, 2020, to appear.
