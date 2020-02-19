@@ -48,6 +48,21 @@ _Unbiased risk estimate algorithms for image deconvolution_. The Chinese Univers
 - Feng Xue and Anatoly Yagola. Analysis of point-target detection performance based on ATF and TSF. Infrared Physics & Technology, vol. 52, no. 5, pp. 166–173, Sep. 2009. <a href="/infrared_2009.pdf">[pdf]</a>
 - Feng Xue, Lelin Cao and Wei Zhang. Research on effect of PSF upon point-target detec- tion performance. Supplement of Infrared and Laser Engineering, vol. 36, pp. 177–181, Sep. 2007. (in Chinese)
 
+### Conference papers
+- Feng Xue and Thierry Blu. A proximal point analysis of some primal-dual splitting al- gorithms. In Proc. of the 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 4–8, 2020, submitted.
+- Feng Xue and Thierry Blu. Some alternating direction methods of multipliers revisited for constrained total variation minimization. In Proc. of the 45th IEEE International Confer- ence on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 4–8, 2020, submitted.
+- Feng Xue and Thierry Blu. On the degrees of freedom in total variation minimization. In Proc. of the 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 4–8, 2020, to appear.
+- Feng Xue, Jizhou Li and Thierry Blu. An iterative SURE-LET deconvolution algorithm based on BM3D denoiser. In Proc. of the IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan, September 22–25, 2019, pp. 1795–1799.
+- Feng Xue, Thierry Blu, Jiaqi Liu and Xia Ai. A novel GCV-based criterion for parameter selection in image deconvolution. In Proc. of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, April 15–20, 2018, pp. 1403–1407.
+- Feng Xue, Thierry Blu, Jiaqi Liu and Xia Ai. Recursive evaluation of SURE for total vari- ation denoising. In Proc. of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, April 15–20, 2018, pp. 1338–1342
+- Jizhou Li, Feng Xue and Thierry Blu. Accurate 3D PSF estimation from a wide-field microscopy image. In Proc. of the IEEE International Symposium on Biomedical Imaging (ISBI), Washington, D.C., USA, April 04–07, 2018, pp. 501–504.
+- Jizhou Li, Feng Xue, Thierry Blu. Gaussian blur estimation for photon-limited images. In Proc. of the IEEE International Conference on Image Processing (ICIP), Beijing, China, Septem- ber 17–20, 2017, pp. 495–499.
+- Feng Xue, Lian Xue and Jiaqi Liu. A family of risk estimators as criteria for PSF estima- tion: from SURE to GCV. In Proc. of the IEEE International Conference on Image Processing (ICIP), Beijing, China, September 17–20, 2017, pp. 2428–2432.
+- Feng Xue, Hanjie Pan, Xin Liu, Hongyan Liu and Jiaqi Liu. Optimization of regulariza- tion parameter for sparse reconstruction based on predictive risk estimate. In Proc. of the IEEE International Conference on Image Processing (ICIP), Beijing, China, September 17–20, 2017, pp. 1442–1446.
+- Feng Xue, Lu Gao, Xin Liu and Jiaqi Liu. SURE-based optimization of image restoration for optical sensing. In Proc. SPIE, vol. 10462, International Conference on Applied Op- tics and Photonics, China (AOPC) 2017: Optical Sensing and Imaging Technology and Applications, Beijing, China, June 06–09, 2017, 104621P.
+- Feng Xue, Hanjie Pan, Runhui Wu, Xin Liu and Jiaqi Liu. Optimization of compound regularization parameters based on Stein’s unbiased risk estimate. In Proc. of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA, March 05–09, 2017, pp. 4591–4595.
+- Feng Xue, Peng Liu, Jiaqi Liu, Xin Liu and Hongyan Liu. SURE-based optimal selection of regularization parameter for total variation deconvolution. Proc. of the 6-th IEEE Inter- national Conference on Industrial Technology and Management, Cambridge University, UK, March 07–10, 2017, pp. 176–180.
+
 ```markdown
 Syntax highlighted code block
 
